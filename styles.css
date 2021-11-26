@@ -1,0 +1,9 @@
+.main {
+    color: rgba(146, 189, 146, 0.133);
+    text-align: center;
+}
+
+.main span {
+    text-transform: uppercase;
+    color: cornflowerblue;
+}
